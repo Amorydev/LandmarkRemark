@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LandmarkRemark</string>
+    <string name="type_your_email">Email</string>
+    <string name="type_your_password">Password</string>
+    <string name="sign_in">Sign In</string>
+</resources>

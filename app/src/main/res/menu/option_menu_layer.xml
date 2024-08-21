@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/layer_1"
+        android:title="Vệ tinh"/>
+    <item android:id="@+id/layer_2"
+        android:title="Địa hình"/>
+    <item android:id="@+id/layer_3"
+        android:title="Đường phố"/>
+    <item android:id="@+id/layer_4"
+        android:title="Hỗn hợp"/>
+
+</menu>
