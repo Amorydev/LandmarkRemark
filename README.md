@@ -9,8 +9,7 @@ Là ứng dụng đơn giản được xây dựng dựa trên yêu cầu của 
 1. MainActivity.kt, Sign.kt, Register.kt là các activity chính của ứng dụng.
 2. MainViewModel.kt, SignViewModel.kt, RegisterViewModel.kt là các ViewModel.
 3. LandMark.kt là Model của ứng dụng,
-4. CustomShowMark.kt là adapter để custom lại view hiển thị chi tiết các vị trí đã đánh dấu
-(bao gồm tiêu đề, mô tả và chủ chia sẻ)
+4. CustomShowMark.kt là adapter để custom lại view hiển thị chi tiết các vị trí đã đánh dấu (bao gồm tiêu đề, mô tả và chủ chia sẻ)
 ```
 ## Ý tưởng
 + Tích hợp Firebase Authentication để thực hiện chức năng đăng kí đăng nhập.
@@ -45,8 +44,7 @@ Là ứng dụng đơn giản được xây dựng dựa trên yêu cầu của 
 ```
 - Ứng dụng không khả dụng ở các quốc gia bị dịch vụ Google chặn hoặc hạn chế,
 - Ứng dụng phụ thuộc vào quyền truy cập vị trí để sử dụng.
-- Vì thời gian có hạn nên tôi chưa thể thực hiện thêm chức năng xóa hoặc chỉnh sửa đánh dấu. 
-Nhưng việc này khá là đơn giản.
+- Vì thời gian có hạn nên tôi chưa thể thực hiện thêm chức năng xóa hoặc chỉnh sửa đánh dấu. Nhưng việc này khá là đơn giản.
 ```
 ## Thời gian thực hiện từng thành phần
 + Tạo bản đồ và đồng bộ hóa Firebase - 2hr
