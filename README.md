@@ -25,26 +25,26 @@ Là ứng dụng đơn giản được xây dựng dựa trên yêu cầu của 
 ## Kiểm thử
 + Phương pháp cài đặt:
 ```
-- Download mã nguồn về máy.
-- Mở mã nguồn trên Android Studio.
-- Bật chức năng gỡ lỗi USB và khởi chạy ứng dụng.
-- Khi khởi chạy app, ứng dụng yêu cầu quyền truy cập. Vui lòng cấp truy cập trước khi sử dụng.
+1. Download mã nguồn về máy.
+2. Mở mã nguồn trên Android Studio.
+3. Bật chức năng gỡ lỗi USB và khởi chạy ứng dụng.
+4. Khi khởi chạy app, ứng dụng yêu cầu quyền truy cập. Vui lòng cấp truy cập trước khi sử dụng.
 ```
 + Tính năng chính:
 ```
-- Ứng dụng sử dụng Firebase Authentication để thực hiện đăng nhập/ đăng kí/ đăng xuất.
-- Người dùng có thể xem vị trí hiện tại của mình 1 cách chính xác. Và xem vị trí mà người khác
+1. Ứng dụng sử dụng Firebase Authentication để thực hiện đăng nhập/ đăng kí/ đăng xuất.
+2. Người dùng có thể xem vị trí hiện tại của mình 1 cách chính xác. Và xem vị trí mà người khác
 đã chia sẻ khi dùng ứng dụng (bao gồm tiêu đề, mô tả và tên người chia sẻ)
-- Người dùng có thể đánh dấu lại vị trí của mình lên bản đồ và xem đánh dấu của những người khác.
-- Người dùng có thể tìm kiếm các vị trí mình đã đánh dấu dựa trên tiêu đề đã sử dụng.
-- Thực hiện zoom in hoặc zoom out trên bản đồ.
-- Bản đồ có 4 kiểu để lựa chọn: địa hình, đường phố, vệ tinh, hỗn hợp.
+3. Người dùng có thể đánh dấu lại vị trí của mình lên bản đồ và xem đánh dấu của những người khác.
+4. Người dùng có thể tìm kiếm các vị trí mình đã đánh dấu dựa trên tiêu đề đã sử dụng.
+5. Thực hiện zoom in hoặc zoom out trên bản đồ.
+6. Bản đồ có 4 kiểu để lựa chọn: địa hình, đường phố, vệ tinh, hỗn hợp.
 ```
 + Hạn chế ứng dụng:
 ```
-- Ứng dụng không khả dụng ở các quốc gia bị dịch vụ Google chặn hoặc hạn chế,
-- Ứng dụng phụ thuộc vào quyền truy cập vị trí để sử dụng.
-- Vì thời gian có hạn nên tôi chưa thể thực hiện thêm chức năng xóa hoặc chỉnh sửa đánh dấu. Nhưng việc này khá là đơn giản.
+1. Ứng dụng không khả dụng ở các quốc gia bị dịch vụ Google chặn hoặc hạn chế,
+2. Ứng dụng phụ thuộc vào quyền truy cập vị trí để sử dụng.
+3. Vì thời gian có hạn nên tôi chưa thể thực hiện thêm chức năng xóa hoặc chỉnh sửa đánh dấu. Nhưng việc này khá là đơn giản.
 ```
 ## Thời gian thực hiện từng thành phần
 + Tạo bản đồ và đồng bộ hóa Firebase - 2hr
